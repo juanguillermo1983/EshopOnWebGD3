@@ -260,3 +260,6 @@ pub/
 .devcontainer
 
 .azure
+
+# ASP.NET Core Data Protection keys (do not commit)
+src/Web/key-*.xml
